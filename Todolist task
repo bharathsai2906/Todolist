@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Roboto;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  padding: 200px;
+  text-align: center;
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+  color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 60px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Todolist</h1>
+  <p>Each day i will accomplish one thing on my todo list.</p>
+
+<html>
+    <body>
+        <h2 align="left">Read a Book</h2>
+        <p align="left">I don't think that the human race will survive the next thousand years,unless we spread into space.There are too many accidents that can befalllife on a single planet.But i'm an optimist...</p>
+
+    </body>
+</html>
+  
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+}
+  
+.button {background-color: orange}
+</style>
+</head>
+<body>
+  
+  <h3 align="center"></h3>
+    <button class="button" onclick="alert('next page')">start!</button>
+
+  </body>
+  </html>
+
+  <html>
+    <body>
+      <h4><u>Don't skip introduction</u></h4>
+      <h4 align="center"></h4>
+
+    </body>
+  </html>
